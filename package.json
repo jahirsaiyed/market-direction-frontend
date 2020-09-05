@@ -19,8 +19,12 @@
     "@angular/platform-browser": "~8.2.11",
     "@angular/platform-browser-dynamic": "~8.2.11",
     "@angular/router": "~8.2.11",
-    "angular-cli": "^1.0.0-beta.28.3",
+    "@ng-bootstrap/ng-bootstrap": "~5.2.2",
+    "eventstore": "^1.15.2",
+    "process": "^0.11.10",
+    "process-nextick-args": "^2.0.1",
     "rxjs": "~6.4.0",
+    "rxjs-compat": "^6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
   },
